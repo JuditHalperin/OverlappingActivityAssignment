@@ -14,7 +14,7 @@ available items. It is a boolean method that also returns the assignment of avai
 Note:
 1. Start and end time are integers here.
 2. Activity list is not sorted (by end and then by start).
-3. Difference of 0 is not considered as an overlap (e.g. 1-2 and 2-3 do not overlap).
+3. Difference of 0 is not considered as an overlap (e.g. 1-2 and 2-3 do not overlap).   TODO: add 'difference' argument to allow various values of differences.
 
 """
 
